@@ -38,3 +38,13 @@ a {
 .abc {
     font-size: 25px;
 }
+
+li a{
+    text-decoration:none;
+    color: #6c757d;
+}
+
+li a:hover{
+    text-decoration:none;
+    color: var(--bs-secondary);
+}
